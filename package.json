@@ -1,7 +1,7 @@
 {
   "name": "contact-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/Nihadk117/Contacts.git",
+  "homepage": "https://Nihadk117.github.io/Add-Contacts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
