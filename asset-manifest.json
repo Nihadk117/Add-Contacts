@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Add-Contacts/static/css/main.073c9b0a.css",
+    "main.js": "/Add-Contacts/static/js/main.901686cc.js",
+    "static/js/787.a9a1a97d.chunk.js": "/Add-Contacts/static/js/787.a9a1a97d.chunk.js",
+    "index.html": "/Add-Contacts/index.html",
+    "main.073c9b0a.css.map": "/Add-Contacts/static/css/main.073c9b0a.css.map",
+    "main.901686cc.js.map": "/Add-Contacts/static/js/main.901686cc.js.map",
+    "787.a9a1a97d.chunk.js.map": "/Add-Contacts/static/js/787.a9a1a97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.901686cc.js"
+  ]
+}
